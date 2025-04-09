@@ -2,7 +2,7 @@
 
 A React application that displays a restaurant menu from a local data source and allows users to filter the items by category using dynamically generated buttons.
 
-**[Live Demo]()**
+**[Live Demo](https://menufilternoto.netlify.app/)**
 
 ## Features
 
